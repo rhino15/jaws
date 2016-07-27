@@ -19,7 +19,7 @@ var source = {
         host: 'tviw6wn55xwxejwj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
         user: ' sea2c0dy7hhp54dc',
         password: "zstcx6fnbyyz5vzi",
-        database: "starwars"     
+        database: "no06joxexpib56g8"     
     }
 }
 
