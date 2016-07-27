@@ -11,7 +11,7 @@ var source = {
         port: 3306,
         host: 'localhost',
         user: 'root',
-        password: "Bacca15",
+        password: "Njmitx123",
         database: "starwars"
     },
     jawsDB: {
@@ -22,7 +22,7 @@ var source = {
 
 
 // TODO: connect your jawsDB connection witht he mysql connection.
-var connection = mysql.createConnection( //enter connection here);
+var connection = mysql.createConnection(); //enter connection here);
 
 
 
